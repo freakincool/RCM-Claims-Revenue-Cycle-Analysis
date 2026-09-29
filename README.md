@@ -1,5 +1,14 @@
 # Project 01 — RCM Claims & Revenue Cycle Analysis
 
+## How to Explore the Project
+
+1. Start with the dashboard preview above.
+2. Open the Excel dashboard workbook for interactive analysis.
+3. Review the Evidence folder for supporting calculations.
+4. Read the Case Study for methodology, findings, and business interpretation.
+5. Review the QA folder for final validation notes.
+
+
 ## Overview
 
 An Excel-based healthcare Revenue Cycle Management (RCM) analytics case study built on a **synthetic 3,000-claim dataset**.
@@ -183,25 +192,22 @@ Project-01-RCM-Claims-Revenue-Cycle-Analysis/
 │   └── Project_01_Evidence.xlsx
 │
 ├── Dashboard/
-│   └── [Final Excel dashboard workbook — add before publishing]
+│   └── RCM_Phase2_Portfolio_Dataset.xlsx
 │
 ├── Screenshots/
-│   └── Final_Dashboard_Preview.png
+│   └── Final_Dashboard_Preview_.png
 │
 └── QA/
     └── Project_01_Final_QA_Report.txt
 ```
-
-> **Publication note:** The final dashboard workbook was not included in the files uploaded for this packaging step. The `Dashboard/` folder is therefore intentionally left without a fabricated or substitute workbook. Add the exact locked Excel dashboard workbook before pushing the repository to GitHub.
-
 ---
 
 ## Project Status
 
 **Analysis:** Complete  
-**Dashboard:** Locked  
+**Dashboard:** Complete
 **Evidence:** Complete  
 **Documentation:** Complete  
 **Final QA:** Complete  
 **GitHub packaging:** Prepared  
-**Publication:** Pending addition of the final dashboard workbook
+**Publication:** Complete
