@@ -1,0 +1,29 @@
+PROJECT 01 — FINAL QA REPORT
+
+Source files reviewed:
+- RCM_Phase2_Portfolio_Dataset(5).xlsx
+- Project 01 Evidence Spreadsheet(2).xlsx
+
+Verified numerical values:
+Total Claims: 3000
+Allowed Amount: $5,034,573.60
+Paid Amount: $3,939,008.19
+Outstanding AR: $1,095,565.41
+Payment Rate: 78.24%
+Denial Claim Rate: 14.97%
+Total Denial Amount: $488,466.91
+120+ AR share: 32.46%
+Top 4 denial categories: 76.63%
+Top 5 denial categories: 90.81%
+Top 10 payer x denial amount: $212,052.23
+Top 10 share of denial dollars: 43.41%
+April Paid: $616,495.78
+May Paid: $497,701.63
+UHC Authorization + Medical Necessity + Eligibility: 60.73%
+
+Corrections / publication notes:
+1. The current evidence supports 60.73% for UHC Authorization + Medical Necessity + Eligibility, not 60.76%.
+2. The current RCM_Analysis sheet contains 35 fields. Project_Control still says 29. Update metadata.
+3. Avoid saying that 90.81% or the Top 10 amounts are 'recoverable'. They are concentration/coverage measures, not guaranteed recoverable dollars.
+4. Dashboard and documentation status fields in Project_Control are stale relative to the locked final dashboard and completed documentation.
+5. BQ03 wording in the final case study was corrected to use payer-specific largest category concentrations from the current evidence.
