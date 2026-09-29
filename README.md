@@ -94,7 +94,7 @@ The final dashboard includes:
 
 ### Dashboard Preview
 
-![Final Dashboard Preview](Screenshots/Final_Dashboard_Preview.png)
+![Final Dashboard Preview](Screenshots/Final_Dashboard_Preview_.png)
 
 ---
 
